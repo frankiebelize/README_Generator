@@ -1,8 +1,8 @@
 
-# README Generator
+# Readme Generator
 
 ## Description
-To create a basic Readme File
+To create a readme Generator to make it easier to orgranize our readme file
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,19 +11,19 @@ To create a basic Readme File
 - [Questions](#questions)
 
 ## Installation
-NA
+N/A
 
 ## Usage
-It should be use by answering all the prompts
+1) follow prompts and answer all of them. 2)to get readme file from your folder
 
 ## License
 [![License](https://img.shields.io/badge/license-undefined-brightgreen)](LICENSE)
 This project is licensed under the undefined License.
 
 ## Badges
-Downloads Badge (npm)
+Version Badge
 
 ## Questions
-GitHub: [frankiebelize](https://github.com/frankiebelize)
+GitHub: [github.com/frankiebelize](https://github.com/github.com/frankiebelize)
 Email: frankiebelize@gmail.com
   
